@@ -1,2 +1,3 @@
-# vector-db-explorer
-vector-db-explorer
+# Experimental RAG Design and Evaluation System
+
+[ to be filled]
