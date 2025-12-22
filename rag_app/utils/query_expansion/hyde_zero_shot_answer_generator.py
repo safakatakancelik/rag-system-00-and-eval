@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 
 
-def get_zero_shot_answer(query: str, model_name: str = "gemini-2.5-flash"):
+def get_zero_shot_answer(query: str, model_name: str = "gemini-2.0-flash"):
     """
     Generates a zero-shot answer to a user query.
     serves to the purpose of creating a fake answer.
