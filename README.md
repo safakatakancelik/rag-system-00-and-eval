@@ -55,13 +55,13 @@ Despite high faithfulness and context recall on average, the Answer Correctness 
 - Chunk re-ranking before LLM as a judge to prevent lost-in-the-middle issues and reduce computation costs.
 - Alternative and/or fine tuned models to gemini flash 2.0 for synthesis bottleneck.
 
-## Technologies
+## Stack and ad hoc links
 
 - **Evaluation Framework**: RAGAS
 - **Dataset**: HotPotQA
 - **Vector Database**: ChromaDB
 - **LLM**: Gemini Flash 2.0
-diagrams: https://www.tldraw.com/f/iap9EKd03_FfLR9L1bAp1
+- **Design Diagrams**: https://www.tldraw.com/f/iap9EKd03_FfLR9L1bAp1
 
 
 ## Future Steps
