@@ -1,6 +1,8 @@
 # RAG and Evaluations
 
 This repository contains an experimental autonomous RAG system evaluated with the RAGAS framework on HotPotQA dataset.
+Built workflow demonstrates strong grounding behavior with identified improvement areas in context recall consistency and answer synthesis capabilities.
+Below are the details on what this repo currently has and what are the future steps.
 
 ## Repository Structure
 
@@ -53,6 +55,14 @@ Despite high faithfulness and context recall on average, the Answer Correctness 
 - Chunk re-ranking before LLM as a judge to prevent lost-in-the-middle issues and reduce computation costs.
 - Alternative and/or fine tuned models to gemini flash 2.0 for synthesis bottleneck.
 
+## Technologies
+
+- **Evaluation Framework**: RAGAS
+- **Dataset**: HotPotQA
+- **Vector Database**: ChromaDB
+- **LLM**: Gemini Flash 2.0
+diagrams: https://www.tldraw.com/f/iap9EKd03_FfLR9L1bAp1
+
 
 ## Future Steps
 
@@ -68,11 +78,3 @@ I plan to work more on RAG systems. This system can be improved significantly an
 Why?
 Because I want to learn more on building robust system and see this as the way to do it.
 
-## Technologies
-
-- **Evaluation Framework**: RAGAS
-- **Dataset**: HotPotQA
-- **Vector Database**: ChromaDB
-- **LLM**: Gemini Flash 2.0
-
-diagrams: https://www.tldraw.com/f/iap9EKd03_FfLR9L1bAp1
