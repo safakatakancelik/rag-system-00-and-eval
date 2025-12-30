@@ -1,4 +1,4 @@
-# Autonomous RAG Design and Evaluation
+# RAG and Evaluations
 
 This repository contains an experimental autonomous RAG system evaluated with the RAGAS framework on HotPotQA dataset.
 
