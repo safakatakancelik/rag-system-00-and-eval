@@ -66,7 +66,7 @@ I plan to work more on RAG systems. This system can be improved significantly an
     - this is needed to test more comprehensively.
 
 Why?
-Because I'm not looking to improve the scores of this one RAG pipeline, but to understand in-depth and build robust systems.
+Because I want to learn more on building robust system and see this as the way to do it.
 
 ## Technologies
 
