@@ -75,3 +75,4 @@ Because I want to learn more on building robust system and see this as the way t
 - **Vector Database**: ChromaDB
 - **LLM**: Gemini Flash 2.0
 
+diagrams: https://www.tldraw.com/f/iap9EKd03_FfLR9L1bAp1
